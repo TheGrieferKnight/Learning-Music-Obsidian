@@ -1,1 +1,1 @@
-"# Learning-Music-Obsidian" 
+# Learning-Music
